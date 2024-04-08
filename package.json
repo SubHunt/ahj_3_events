@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "[![Build status](https://ci.appveyor.com/api/projects/status/bg0y86c36cu6b14g?svg=true)](https://ci.appveyor.com/project/SubHunt/ahj-3-events)",
   "main": "dist/index.js",
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com/"
+  },
   "scripts": {
     "start": "webpack serve --mode development",
     "build": "webpack --mode production",
