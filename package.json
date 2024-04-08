@@ -1,8 +1,8 @@
 {
-  "name": "ajs_6_object",
+  "name": "@subhunt/ajs_6_object",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "[![Build status](https://ci.appveyor.com/api/projects/status/bg0y86c36cu6b14g?svg=true)](https://ci.appveyor.com/project/SubHunt/ahj-3-events)",
+  "main": "dist/index.js",
   "scripts": {
     "start": "webpack serve --mode development",
     "build": "webpack --mode production",
@@ -46,5 +46,12 @@
   "jest": {
     "testEnvironment": "jsdom"
   },
-  "repository": "git@github.com:SubHunt/ahj_3_events.git"
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/SubHunt/ahj_3_events.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SubHunt/ahj_3_events/issues"
+  },
+  "homepage": "https://github.com/SubHunt/ahj_3_events#readme"
 }
