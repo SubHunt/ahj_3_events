@@ -1,4 +1,4 @@
-![CI](https://github.com/SubHunt/ahj_3_events/tree/main/actions/workflows/web.yml/badge.svg)
+![CI](https://github.com/SubHunt/ahj_3_events/actions/workflows/web.yml/badge.svg)
     
 [![Build status](https://ci.appveyor.com/api/projects/status/bg0y86c36cu6b14g?svg=true)](https://ci.appveyor.com/project/SubHunt/ahj-3-events)
 
